@@ -1,0 +1,45 @@
+/* Details Title */
+"Adopt" = "Vedtage";
+
+/* Birds are warm-blooded, egg-laying animals that have vertebrae, or a backbone. */
+"Birds" = "Fugle";
+
+/* Cats, are small, carnivorous (meat-eating) mammals, of the family Felidae. */
+"Cats" = "Katte";
+
+/* Chameleons  are a distinctive and highly specialized clade of Old World lizards with 202 species. */
+"Chameleons" = "Kameleoner";
+
+/* Cows are large grazing animals with two-toed or cloven hooves and a four-chambered stomach. */
+"Cows" = "Køer";
+
+/* Dogs are domesticated mammals, not natural wild animals. They were originally bred from wolves. */
+"Dogs" = "Hunde";
+
+/* Monkeys are tree-dwelling simians and they are intelligent, social animals. */
+"Monkeys" = "Aber";
+
+/* A penguin has a large head, short neck, and elongated body. The tail is short, and wedge-shaped. */
+"Penguins" = "Pingviner";
+
+/* Navigation Title */
+"Pet Explorer" = "kæledyr udforske";
+
+/* Pigs are stout-bodied, short-legged, with thick skin usually sparsely coated with short bristles. */
+"Pigs" = "Grise";
+
+/* The rat is a medium-sized rodent. Rats are omnivores, they eat lots of different types of food. */
+"Rats" = "Rotter";
+
+/* Snakes are limbless reptiles with long, cylindrical bodies, lidless eyes, and a forked tongue. */
+"Snakes" = "Slanger";
+
+/* Squirrels typically have slender bodies with bushy tails and large eyes. */
+"Squirrels" = "Egern";
+
+/* Age */
+"years old" = "år gammel";
+
+/* name */
+"Your pet:" = "Dit kæledyr:";
+

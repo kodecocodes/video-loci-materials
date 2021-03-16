@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Adopt"; ObjectID = "dI7-PE-hkI"; */
+"dI7-PE-hkI.normalTitle" = "Adopt";
+
+/* Class = "UILabel"; text = "[Pet Birthdate]"; ObjectID = "sCa-vL-tC0"; */
+"sCa-vL-tC0.text" = "[Pet Birthdate]";
+
+/* Class = "UILabel"; text = "[Pet Name]"; ObjectID = "yxJ-zZ-vfJ"; */
+"yxJ-zZ-vfJ.text" = "[Pet Name]";

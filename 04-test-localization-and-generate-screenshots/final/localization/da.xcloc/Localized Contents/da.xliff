@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="GetAPet/Base.lproj/Main.storyboard" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
+    </header>
+    <body>
+      <trans-unit id="dI7-PE-hkI.normalTitle" xml:space="preserve">
+        <source>Adopt</source>
+        <target>Vedtage</target>
+        <note>Class = "UIButton"; normalTitle = "Adopt"; ObjectID = "dI7-PE-hkI";</note>
+      </trans-unit>
+      <trans-unit id="sCa-vL-tC0.text" xml:space="preserve">
+        <source>[Pet Birthdate]</source>
+        <target>[Pet Birthdate]</target>
+        <note>Class = "UILabel"; text = "[Pet Birthdate]"; ObjectID = "sCa-vL-tC0";</note>
+      </trans-unit>
+      <trans-unit id="yxJ-zZ-vfJ.text" xml:space="preserve">
+        <source>[Pet Name]</source>
+        <target>[Pet Name]</target>
+        <note>Class = "UILabel"; text = "[Pet Name]"; ObjectID = "yxJ-zZ-vfJ";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GetAPet/en.lproj/InfoPlist.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Get a Pet</source>
+        <target>Få et kæledyr</target>
+        <note>Localized Bundle Display Name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>GetAPet</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GetAPet/en.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
+    </header>
+    <body>
+      <trans-unit id="Adopt" xml:space="preserve">
+        <source>Adopt</source>
+        <target>Vedtage</target>
+        <note>Details Title</note>
+      </trans-unit>
+      <trans-unit id="Birds" xml:space="preserve">
+        <source>Birds</source>
+        <target>Fugle</target>
+        <note>Birds are warm-blooded, egg-laying animals that have vertebrae, or a backbone.</note>
+      </trans-unit>
+      <trans-unit id="Cats" xml:space="preserve">
+        <source>Cats</source>
+        <target>Katte</target>
+        <note>Cats, are small, carnivorous (meat-eating) mammals, of the family Felidae.</note>
+      </trans-unit>
+      <trans-unit id="Chameleons" xml:space="preserve">
+        <source>Chameleons</source>
+        <target>Kameleoner</target>
+        <note>Chameleons  are a distinctive and highly specialized clade of Old World lizards with 202 species.</note>
+      </trans-unit>
+      <trans-unit id="Cows" xml:space="preserve">
+        <source>Cows</source>
+        <target>Køer</target>
+        <note>Cows are large grazing animals with two-toed or cloven hooves and a four-chambered stomach.</note>
+      </trans-unit>
+      <trans-unit id="Dogs" xml:space="preserve">
+        <source>Dogs</source>
+        <target>Hunde</target>
+        <note>Dogs are domesticated mammals, not natural wild animals. They were originally bred from wolves.</note>
+      </trans-unit>
+      <trans-unit id="Monkeys" xml:space="preserve">
+        <source>Monkeys</source>
+        <target>Aber</target>
+        <note>Monkeys are tree-dwelling simians and they are intelligent, social animals.</note>
+      </trans-unit>
+      <trans-unit id="Penguins" xml:space="preserve">
+        <source>Penguins</source>
+        <target>Pingviner</target>
+        <note>A penguin has a large head, short neck, and elongated body. The tail is short, and wedge-shaped.</note>
+      </trans-unit>
+      <trans-unit id="Pet Explorer" xml:space="preserve">
+        <source>Pet Explorer</source>
+        <target>Kæledyr udforske</target>
+        <note>Navigation Title</note>
+      </trans-unit>
+      <trans-unit id="Pigs" xml:space="preserve">
+        <source>Pigs</source>
+        <target>Grise</target>
+        <note>Pigs are stout-bodied, short-legged, with thick skin usually sparsely coated with short bristles.</note>
+      </trans-unit>
+      <trans-unit id="Rats" xml:space="preserve">
+        <source>Rats</source>
+        <target>Rotter</target>
+        <note>The rat is a medium-sized rodent. Rats are omnivores, they eat lots of different types of food.</note>
+      </trans-unit>
+      <trans-unit id="Snakes" xml:space="preserve">
+        <source>Snakes</source>
+        <target>Slanger</target>
+        <note>Snakes are limbless reptiles with long, cylindrical bodies, lidless eyes, and a forked tongue.</note>
+      </trans-unit>
+      <trans-unit id="Squirrels" xml:space="preserve">
+        <source>Squirrels</source>
+        <target>Egern</target>
+        <note>Squirrels typically have slender bodies with bushy tails and large eyes.</note>
+      </trans-unit>
+      <trans-unit id="Your pet:" xml:space="preserve">
+        <source>Your pet:</source>
+        <target>Dit kæledyr:</target>
+        <note>name</note>
+      </trans-unit>
+      <trans-unit id="years old" xml:space="preserve">
+        <source>years old</source>
+        <target>År gammel</target>
+        <note>Age</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
